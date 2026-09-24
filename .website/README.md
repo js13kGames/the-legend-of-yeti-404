@@ -1,4 +1,8 @@
 ---
+genres:
+  - shooter
+  - action
+  - adventure
 post: https://blog.grapefruitopia.com/post/2020-09-17-js13k-yeti-postmortem/
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
